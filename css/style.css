@@ -3,11 +3,6 @@
     padding: o;
     font-family: "Open Sans", sans-serif;
 }
-*{
-    margin: 0;
-    padding: o;
-    font-family: "Open Sans", sans-serif;
-}
 a {
     text-decoration: none;
 }
@@ -330,6 +325,11 @@ nav{
     font-size: 20px;
     font-weight: 700;
     border: none;
+}
+.field button:hover{
+    background-color: transparent;
+    color: #FD6E0A;
+    border:1px solid #FD6E0A;
 }
 .field button:hover{
     background-color: transparent;
